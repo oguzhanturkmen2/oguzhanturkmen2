@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oguzhanturkmen2
 - 👀 I’m interested in C#, dot Net and SQL.
-- 🌱 I’m currently learning React.js.
+- 🌱 I’m currently learning React.js, Blazor.
 - 📫 How to reach me oguzhanturkmen2@hotmail.com.
 
 <!---
