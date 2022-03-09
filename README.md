@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oguzhanturkmen2
 - 👀 I’m expert in C#, dot Net and SQL.
 - 🌱 I’m currently learning React.js, Blazor.
-- 📫 How to reach me oguzhanturkmen2@hotmail.com.
+- 📫 How to reach me oguzhanturkmen2@hotmail.com
 
 20+ years of experience in software development. .Net technologies especially C# / .Net Core / MVC. Database design and database development. RPA (Robotic Process Automation - Automation Anywhere) development. Has the experience of working at various solutions like ERP, supply chain management, bank and card integrations and e-commerce.
 
