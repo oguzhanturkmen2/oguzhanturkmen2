@@ -27,7 +27,7 @@ Stack:
 
 Huge thanks for your time.
 
-<a href=”https://www.linkedin.com/in/o%C4%9Fuzhan-t%C3%BCrkmen/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href="https://www.linkedin.com/in/o%C4%9Fuzhan-t%C3%BCrkmen/"><img align="left" src="https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt="icon | LinkedIn" width="21px"/></a>
 
 <!---
 oguzhanturkmen2/oguzhanturkmen2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
