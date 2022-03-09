@@ -27,7 +27,25 @@ Stack:
 
 Huge thanks for your time.
 
-<a href="https://www.linkedin.com/in/o%C4%9Fuzhan-t%C3%BCrkmen/"><img align="left" src="https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt="icon | LinkedIn" width="21px"/></a>
+
+<a href="https://www.linkedin.com/in/o%C4%9Fuzhan-t%C3%BCrkmen/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+&nbsp;
+<a href="mailto:oguzhanturkmen2@hotmail.com">
+  <img
+    alt="Mail"
+    src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+  />
+</a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhanturkmen2&label=Profile%20views&color=ce9927&style=flat" alt="oguzhanturkmen2" /> </p>
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=oguzhanturkmen2&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=oguzhanturkmen2&show_icons=true&theme=radical)
 
 <!---
 oguzhanturkmen2/oguzhanturkmen2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
