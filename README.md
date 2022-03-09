@@ -25,7 +25,7 @@ Stack:
 ✅ Entity Framework, LinQ 10+ years
 ✅ WCF, SOAP, XML Web services, API 12+ years
 
-Huge thanks for your time,
+Huge thanks for your time.
 
 <!---
 oguzhanturkmen2/oguzhanturkmen2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
